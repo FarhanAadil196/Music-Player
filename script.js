@@ -10,8 +10,8 @@ let music = document.getElementById('audio');
     let songs = [
         {
             name: '1',
-            title: "One Love",
-            artist: "Shubh",
+            title: "Kaho Na Kaho",
+            artist: "Amir Jamal",
         },
         {
             name: '2',
@@ -25,18 +25,58 @@ let music = document.getElementById('audio');
         },
         {
             name: '4',
-            title: "Pehle Bhi Main",
-            artist: "Vishal Mishra, Raj Shekhar",
+            title: "Ya Ali",
+            artist: "DJ Suketu, Pritam Chakraborty, and Zubeen Garg",
         },
         {
             name: '5',
-            title: "Safar",
-            artist: "Juss",
+            title: "Deewaane",
+            artist: "Aditya Yadav,Stebin Ben",
         },
         {
             name: '6',
             title: "Teri Khair Mangdi",
             artist: "Bilal Saeed",
+        },
+        {
+            name: '7',
+            title: "Dil Ibaadat",
+            artist: "KK",
+        },
+        {
+            name: '8',
+            title: "Tu Hi Meri Sab Hai",
+            artist: "KK",
+        },
+        {
+            name: '9',
+            title: "Woh Lamhe",
+            artist: "Atif Aslam",
+        },
+        {
+            name: '10',
+            title: "Tera Mera Rishta",
+            artist: "Mustafa Zahid",
+        },
+        {
+            name: '11',
+            title: "Dil",
+            artist: "Raghav Chaitanya",
+        },
+        {
+            name: '12',
+            title: "Ijazat",
+            artist: "Nehaal Naseem",
+        },
+        {
+            name: '13',
+            title: "One Love",
+            artist: "Shubh",
+        },
+        {
+            name: '14',
+            title: "945",
+            artist: "Prabh Singh, Jay Trak",
         },
     ];
 
